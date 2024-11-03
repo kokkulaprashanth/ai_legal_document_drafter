@@ -21,11 +21,11 @@ This application is a Streamlit-based tool for generating legal documents and pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd 
    ```
 3. Install the required libraries:
    ```bash
@@ -37,7 +37,7 @@ This application is a Streamlit-based tool for generating legal documents and pr
 
 1. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run intelligent_drafter.py
    ```
 2. Open the application in your browser.
 3. Use the sidebar to enter details for document generation:
