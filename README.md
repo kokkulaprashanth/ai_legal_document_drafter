@@ -21,11 +21,11 @@ This application is a Streamlit-based tool for generating legal documents and pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/kokkulaprashanth/ai_legal_document_drafter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd 
+   cd ai_legal_document_drafter
    ```
 3. Install the required libraries:
    ```bash
